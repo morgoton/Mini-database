@@ -1,1 +1,1 @@
-# SQL
+# Training MySQL
